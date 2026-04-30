@@ -7,7 +7,7 @@ $result = mysqli_query($conn, "SELECT * FROM usuarios");
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>CRUD PHP</title>
+    <title>CRUD PHP - 2B</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body class="container mt-4">
